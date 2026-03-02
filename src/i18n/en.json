@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Home",
+    "marketplace": "Marketplace",
+    "dashboard": "Dashboard",
+    "chatbot": "AI Chat",
+    "cart": "Cart",
+    "profile": "Profile",
+    "login": "Login",
+    "register": "Register",
+    "admin": "Admin",
+    "logout": "Logout"
+  },
+  "hero": {
+    "tagline": "The Future of Nutrition",
+    "title": "Eat Smart,",
+    "title2": "Live Better",
+    "subtitle": "AI-powered personalized nutrition, smart marketplace & health tracking — all in one futuristic platform.",
+    "cta": "Get Started",
+    "explore": "Explore Products"
+  },
+  "footer": {
+    "copyright": "© 2026 NutriNova AI. All Rights Reserved.",
+    "tagline": "Fueling the future, one smart bite at a time."
+  },
+  "disclaimer": {
+    "title": "Health Disclaimer",
+    "text": "This platform provides general health information. It is not medical advice. Please consult a doctor before making dietary changes.",
+    "accept": "I Understand & Accept",
+    "decline": "Decline"
+  }
+}
